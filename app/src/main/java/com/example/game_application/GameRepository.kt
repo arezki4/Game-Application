@@ -48,7 +48,7 @@ class GameRepository {
 
                     //verifier que game n'est pas NULL
                     if(game != null){
-                        //ajouter la plant a notre liste
+                        //ajouter le jeux a notre liste
                         gameList.add(game)
                     }
                 }
