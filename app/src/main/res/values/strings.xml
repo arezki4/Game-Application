@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">Game-Gallery</string>
+
+    <string name="bottom_home_item">Acceuil</string>
+    <string name="bottom_collection_item">Collection</string>
+    <string name="bottom_add_game_item">Ajouter</string>
+
+    <!-- Page d'acceuil  -->
+    <string name="home_page_title">à découvrir</string>
+    <string name="home_page_last_game_section">Dernier jeux ajouté</string>
+
+    <!-- Page de collection  -->
+    <string name="collection_page_title">Mes Gotty</string>
+
+    <!-- Page de ajout de jeux  -->
+    <string name="add_game_page_title">Ajout de jeux</string>
+    <string name="add_game_page_upload_button">Changer Image</string>
+    <string name="add_game_page_name_input">@string/item_game_name</string>
+    <string name="add_game_page_description_input">@string/item_game_description</string>
+
+
+    <string-array name="add_game_page_type_spinner_input">
+        <item> Type : Adventure </item>
+        <item> Type : Action </item>
+        <item> Type : RPG </item>
+    </string-array>
+
+    <string-array name="add_game_page_support_spinner_input">
+        <item> Support : Nintendo Switch </item>
+        <item> Support : Ps5 </item>
+        <item> Support : Xbox series </item>
+    </string-array>
+
+    <string name="add_game_page_confirm_button">Confirmer</string>
+
+    <!-- Fenetre pipup de detail  -->
+    <string name="popup_game_name">Game Name</string>
+    <string name="popup_game_description_title">Description</string>
+    <string name="popup_game_description_subtitle">Petite description</string>
+    <string name="popup_game_type_title">Type</string>
+    <string name="popup_game_type_subtitle">Adventure</string>
+    <string name="popup_game_support_title">Support de jeux</string>
+    <string name="popup_game_support_subtitle">Nintendo Switch</string>
+
+    <!-- game customise  -->
+    <string name="item_game_name">Nom du jeux</string>
+    <string name="item_game_description">Description du jeux</string>
+
+</resources>
