@@ -38,7 +38,7 @@ class MainActivity : AppCompatActivity() {
     }
 
     private fun loadFragment(fragment:  Fragment, String: Int) {
-        //charger notre plant repository
+        //charger notre game repository
         val repo = GameRepository()
 
         //actualiser le titre de la page
